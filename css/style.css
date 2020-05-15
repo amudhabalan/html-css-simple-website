@@ -7,6 +7,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5rem;
+  height: 100vh;
 }
 
 /* Utilities */
@@ -83,15 +84,16 @@ a {
 }
 
 .hero-container .filler {
-  height: 250px;
+  height: 200px;
 }
 
 .hero-content {
   text-align: center;
   background-color: #333;
-  padding: 30px;
+  padding: 30px 20px;
   color: #fff;
-  margin: 0px 300px;
+  margin: auto;
+  width: 60%;
   opacity: 80%;
 }
 
