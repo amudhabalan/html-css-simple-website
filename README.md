@@ -1,7 +1,7 @@
 # Hotel Amud's
 A Simple Hotel Website created with HTML5 &amp; CSS3
 
-#### Watch it in action at https://pedantic-yonath-9a9644.netlify.app/
+#### Watch it in action at https://amudshotel.netlify.app/
 
 ![Hotel Amud's](screenshot.jpg)
 
